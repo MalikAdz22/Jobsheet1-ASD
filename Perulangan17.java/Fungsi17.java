@@ -14,7 +14,6 @@ public class Fungsi17 {
     public static final int[] KEMATIAN = { 1, 2, 0, 5 };
 
     public static void main(String[] args) {
-       // Scanner sc = new Scanner(System.in);
         tampilkanPendapatan();
         tampilkanStok(4);
     }
